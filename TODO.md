@@ -7,6 +7,7 @@
 - [x] Update album details
 - [x] Delete albums from the database
 ### Model Layer
+- [ ] Add nullable params to the model annotations
 - [ ] Add songs a class to the model layer
   - [ ] Relationships between songs and albums
   - [ ] Relationships between songs and artists
